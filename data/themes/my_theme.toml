@@ -8,8 +8,8 @@ name = "my_theme.toml"
 
   # Menu
   #menu_primary ="#f6eee9"
-  #menu_primary ="rgb(133, 193, 233)"
-  menu_primary ="rgb(155, 89, 182)"
+  menu_primary ="rgb(133, 193, 233)"
+  #menu_primary ="rgb(155, 89, 182)"
   menu_text = "#000"
   menu_text_active = "#000"
   #menu_title = "#000"
