@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: theme1.toml
+theme: theme1
 day_night: false
 font: my_font_set
 font_size: L
