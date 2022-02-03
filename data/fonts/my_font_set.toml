@@ -4,7 +4,7 @@ name = "Ocean"
 google_fonts = "family=Quintessential&display=swap"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Quintessential"
 body_font = "Roboto"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
