@@ -8,7 +8,7 @@ name = "earth"
 
   # Menu
   #menu_primary ="#f6eee9"
-  menu_primary ="#85C1E9"
+  menu_primary =RGB(133, 193, 233)
   menu_text = "#000"
   menu_text_active = "#000"
   menu_title = "#000"
