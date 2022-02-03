@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: earth#my_theme.toml
+theme: my_theme.toml
 day_night: false
 font: my_font_set
 font_size: L
