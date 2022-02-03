@@ -3,8 +3,8 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#707070"
-  #primary="rgb(133, 193, 233)"
+  #primary = "#707070"
+  primary="rgb(133, 193, 233)"
 
   # Menu
   menu_primary ="#f6eee9"
