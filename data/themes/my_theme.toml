@@ -1,13 +1,13 @@
 # Theme metadata
-name = "my_theme"
+name = "my_theme.toml"
 
 [light]
   # Primary
-  #primary = "#707070"
-  primary="rgb(133, 193, 233)"
+  primary = "#707070"
+  #primary="rgb(133, 193, 233)"
 
   # Menu
-  menu_primary ="#f6eee9"
+  #menu_primary ="#f6eee9"
   menu_primary ="rgb(133, 193, 233)"
   menu_text = "#000"
   menu_text_active = "#000"
