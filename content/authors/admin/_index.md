@@ -42,15 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: hhua2@cs.rochester.edu
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=K9aLTwUAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hang-h-89491411b/
